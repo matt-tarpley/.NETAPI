@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|c:\\users\\tarpl\\onedrive\\documents\\projects_2\\.net api\\apibasic\\apibasic\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|solutionrelative:apibasic\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|c:\\users\\tarpl\\onedrive\\documents\\projects_2\\.net api\\apibasic\\apibasic\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|solutionrelative:apibasic\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|c:\\users\\tarpl\\onedrive\\documents\\projects_2\\.net api\\apibasic\\apibasic\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|solutionrelative:apibasic\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|c:\\users\\tarpl\\onedrive\\documents\\projects_2\\.net api\\apibasic\\apibasic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|solutionrelative:apibasic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|c:\\users\\tarpl\\onedrive\\documents\\projects_2\\.net api\\apibasic\\apibasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B2A0AD-4C5C-4683-938D-500CD88948C0}|APIBasic\\APIBasic.csproj|solutionrelative:apibasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "APIBasic\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Models\\Product.cs",
+              "RelativeToolTip": "APIBasic\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:17:46.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Program.cs",
+              "RelativeDocumentMoniker": "APIBasic\\Program.cs",
+              "ToolTip": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Program.cs",
+              "RelativeToolTip": "APIBasic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:10:43.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "APIBasic\\Models\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Models\\ShopContext.cs",
+              "RelativeToolTip": "APIBasic\\Models\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:40:56.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "APIBasic\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Models\\Category.cs",
+              "RelativeToolTip": "APIBasic\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:24:32.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "APIBasic\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\tarpl\\OneDrive\\Documents\\Projects_2\\.NET API\\APIBasic\\APIBasic\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "APIBasic\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:12:06.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
