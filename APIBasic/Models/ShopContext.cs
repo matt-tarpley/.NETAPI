@@ -6,7 +6,7 @@ namespace APIBasic.Models
     {
         public ShopContext(DbContextOptions options) : base(options) { }
 
-        //db objects
+        //db objects mapped from tables
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
 

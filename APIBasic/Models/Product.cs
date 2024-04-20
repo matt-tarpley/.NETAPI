@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Diagnostics;
 using System.Text.Json.Serialization;
 
 namespace APIBasic.Models
@@ -13,10 +14,11 @@ namespace APIBasic.Models
         public bool IsAvailable { get; set;}
 
         //"fk" so to speak
+        [Required]
         public int CategoryId { get; set; }
 
         [JsonIgnore] 
-        public virtual Category Category { get; set; }
+        public virtual Category? Category { get; set; }
 
         //each product has a category
     }
